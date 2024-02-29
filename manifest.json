@@ -1,0 +1,10 @@
+{
+    "name":"Joke's",
+    "description":"Get a Joke",
+    "version":"1.0",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "pop-up.html",
+        "default_icon": "cat.png"
+    }
+}
